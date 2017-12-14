@@ -1,5 +1,5 @@
 # Welcome to ShihKai's Pages
-
+[jump to another page](ShihKaiHo.github.io/link.md)
 
 ### Support or Contact
 
