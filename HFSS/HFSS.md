@@ -33,6 +33,6 @@
 * see Z parameter
 	![Image](HFSS/z_parameter.JPG)
 * see cut plane Gain Pattern
-	![Image](XZ_plane_select.JPG)
-	![Image](XZ_plane_select_2.JPG)
+	![Image](HFSS/XZ_plane_select.JPG)
+	![Image](HFSS/XZ_plane_select_2.JPG)
 	
