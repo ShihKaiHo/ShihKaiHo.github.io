@@ -30,3 +30,9 @@
   ```
   right click on Result in Project Managment -> [Solution data]
   ```
+* see Z parameter
+	![Image](HFSS/z_parameter.JPG)
+* see cut plane Gain Pattern
+	![Image](XZ_plane_select.JPG)
+	![Image](XZ_plane_select_2.JPG)
+	
