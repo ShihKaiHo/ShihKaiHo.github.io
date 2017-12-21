@@ -8,8 +8,8 @@
   ```
 ### Enalbe multi CPU
 
-        [Tools] -> [option] -> [Genennal Options] -> [Desktop Performace] -> [number of processors]
-        [Tools] -> [option] -> [HPC and Analysis Options] -> choose local machine -> [Edit] -> [core] -> write  number of cores
+	[Tools] -> [option] -> [Genennal Options] -> [Desktop Performace] -> [number of processors]
+	[Tools] -> [option] -> [HPC and Analysis Options] -> choose local machine -> [Edit] -> [core] -> write  number of cores
   
 
 ### To get a cross-section from a 3D object (can be use to assign lumped port)
