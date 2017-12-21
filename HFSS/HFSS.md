@@ -37,4 +37,6 @@
 
 ![Image](XZ_plane_select.JPG)
 ![Image](XZ_plane_select_2.JPG)
-	
+### see cut plane Gain Pattern
+
+![Image](directivity.JPG)
