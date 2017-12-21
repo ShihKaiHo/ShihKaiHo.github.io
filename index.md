@@ -1,3 +1,8 @@
+---
+title: This is my title
+layout: post
+---
+
 # Welcome to Shih-Kai's Pages
 Here is a place to put some tips or useful knowledge I learned.
 
