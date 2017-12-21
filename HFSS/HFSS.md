@@ -40,3 +40,4 @@
 ### see directivuty
 
 ![Image](directivity.JPG)
+	right click on image -> [modify] -> [scaling]
