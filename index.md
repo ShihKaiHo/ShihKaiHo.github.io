@@ -9,8 +9,10 @@ Here is a place to put some tips or useful knowledge I learned.
     * [markdown function table](http://commonmark.org/help/)
 * ## C++ Learning
     * [basic socket programing](http://zake7749.github.io/2015/03/17/SocketProgramming/)
-    * makefile tutorial
-    
+    * makefile tutorial
+* ## Linux
+	* bash envirnment setting
+	* useful command
 
 ***
 # Science
