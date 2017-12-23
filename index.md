@@ -8,7 +8,7 @@ Here is a place to put some tips or useful knowledge I learned.
 	* [markdown tutorial](http://markdown.tw)
 	* [markdown function table](http://commonmark.org/help/)
 * ## C++ Learning
-	* [basic socket programing](http://zake7749.github.io/2015/03/17/SocketProgramming/)\
+	* [basic socket programing](http://zake7749.github.io/2015/03/17/SocketProgramming/)
 	* makefile tutorial
 * ## Linux
 	* bash envirnment setting
